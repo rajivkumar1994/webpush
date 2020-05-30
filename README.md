@@ -1,1 +1,1 @@
-# webpush
+# webpush notification for Desktop
